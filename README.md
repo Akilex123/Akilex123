@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I'm curently working on a super cool calorie tracker - fitnesa app😁<br>✨ I plan to spice it up with Machine Learning integration🤖<br><br>
+🛠️ I'm curently working on a super cool calorie tracker - fitness app😁<br>✨ I plan to spice it up with Machine Learning integration🤖<br><br>
 
 
 ## 🌐 Socials:
